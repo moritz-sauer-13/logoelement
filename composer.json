@@ -1,0 +1,20 @@
+{
+  "name":"moritz-sauer-13/logoelement",
+  "description": "Logo Element",
+  "authors": [
+    {
+      "name":"Moritz Sauer - Webentwicklung",
+      "email": "info@moritz-sauer.de"
+    }
+  ],
+  "require":{
+    "silverstripe/recipe-cms": "4.1",
+    "dnadesign/silverstripe-elemental": "^4",
+    "axllent/silverstripe-scss": "^1.8"
+  },
+  "autoload": {
+    "psr-4": {
+      "LogoElement\\": "src/"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+---
+Name: logoelement
+---
+MoritzSauer\LogoElement:
+  Settings:
+    showModal: true
+  FieldsVisibleObject:
+    ExternalLink: true
+    Content: true
+    LogoID: true
+    ColoredLogoID: true
+    ImageID: true
