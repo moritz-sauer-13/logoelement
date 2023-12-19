@@ -9,7 +9,7 @@
   ],
   "require":{
     "silverstripe/recipe-cms": "^4.1 || ^5",
-    "dnadesign/silverstripe-elemental": "^4",
+    "dnadesign/silverstripe-elemental": "^4 || ^5",
     "axllent/silverstripe-scss": "^1.8"
   },
   "autoload": {
